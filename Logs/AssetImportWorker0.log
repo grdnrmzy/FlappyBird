@@ -1,0 +1,129 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.6f1 (c0fade0cc7e9) revision 12647134'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1288; Version 2009; 64bit' Language: 'en' Physical Memory: 8072 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2021.1.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/git/FlappyBird
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+56250
+Successfully changed project path to: C:/git/FlappyBird
+C:/git/FlappyBird
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 140.76 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.6f1 (c0fade0cc7e9)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/git/FlappyBird/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x126)
+    Vendor:   Intel
+    VRAM:     128 MB
+    Driver:   9.17.10.4459
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2021.1.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.1.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2021.1.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56076
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2021.1.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003337 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 157.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.129 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005386 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 160.98 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.890 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3370 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.9 MB.
+System memory in use after: 128.0 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 3822.
+Total: 4.790400 ms (FindLiveObjects: 0.697600 ms CreateObjectMapping: 0.410900 ms MarkObjects: 3.487200 ms  DeleteObjects: 0.192300 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Sprites/play.png
+  artifactKey: Guid(e2c8388b166b84f4e9c4736c3ff1dcef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/play.png using Guid(e2c8388b166b84f4e9c4736c3ff1dcef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '142a977f54125fefe795adb00599b031') in 0.234472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Sprites/pipe.png
+  artifactKey: Guid(0ccfed80b94589f4288284824b1324b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/pipe.png using Guid(0ccfed80b94589f4288284824b1324b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fc4905b4cfd516a6c6ffec0eeb9cf83') in 0.032753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000456 seconds.
+  path: Assets/Sprites/clouds.png
+  artifactKey: Guid(7e2407089d6874240a0cd45971094d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/clouds.png using Guid(7e2407089d6874240a0cd45971094d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcd10af0fa460fb7bd029ff12eed4c45') in 0.037544 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Sprites/replay.png
+  artifactKey: Guid(8704a68c92ecb5c4b9723d9ebdd86b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/replay.png using Guid(8704a68c92ecb5c4b9723d9ebdd86b2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd34dc06e8913d31944edeaf4533b59f') in 0.032710 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Sprites/background.png
+  artifactKey: Guid(6c01eb9ed893ff341be5287a676e8476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/background.png using Guid(6c01eb9ed893ff341be5287a676e8476) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a7c739fbedceeddc53c1b5f4490d73e') in 0.037232 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Sprites/ground.png
+  artifactKey: Guid(2d473129b7e9e424994b6760159fccb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/ground.png using Guid(2d473129b7e9e424994b6760159fccb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0501a39feecf82a68dac3881a2a84717') in 0.026086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Sprites/stars.png
+  artifactKey: Guid(7f7c0f46bd71f4c4ba6a84bebcff95ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/stars.png using Guid(7f7c0f46bd71f4c4ba6a84bebcff95ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50cc4ad14586c3bb92fca397756d51ad') in 0.026388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000451 seconds.
+  path: Assets/Sprites
+  artifactKey: Guid(6be955e53e3801247adc2ff2dc660534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites using Guid(6be955e53e3801247adc2ff2dc660534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e42f50f17b92a5ba2a6bc7c0dcea575c') in 0.017886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Sprites/black-bird.png
+  artifactKey: Guid(afe952f9ad77da54ba94f8ee6b75c677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/black-bird.png using Guid(afe952f9ad77da54ba94f8ee6b75c677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df72b1229c26949fa71435d4769b88e7') in 0.034179 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Sprites/black-bird for icon.png
+  artifactKey: Guid(5bde1befca511fd4ab9a17b3664f9158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/black-bird for icon.png using Guid(5bde1befca511fd4ab9a17b3664f9158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ffc434d0ca028ad3f1362c7047a3dac') in 0.032780 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
